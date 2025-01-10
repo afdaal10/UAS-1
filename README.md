@@ -48,7 +48,6 @@ Kelas ini berfungsi sebagai penghubung antara input pengguna dan tampilan data.
 - **`input_shoe(self)`**: Mengambil input dari pengguna untuk menambahkan informasi tentang sepatu. Metode ini juga melakukan validasi pada ukuran dan harga untuk memastikan keduanya positif.
 - **`show_all_shoes(self)`**: Mengambil semua objek sepatu dari kelas `Data` dan memanggil metode `display_shoes` dari kelas `View`. Jika tidak ada sepatu yang ditambahkan, akan menampilkan pesan bahwa tidak ada data.
 
-### Fungsi Utama
-
-Program dieksekusi melalui fungsi utama berikut:
-
+#
+Berikut adalah link YouTube mengenai dokumentasi penjelasan program:
+https://youtu.be/sJfkjD58kAM?si=6cJjug-QCvRS3UF6
